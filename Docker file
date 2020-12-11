@@ -1,5 +1,5 @@
 
-FROM karrav/sp_test:base_j8
+FROM scholleti/iiqrepo:iiqpoc1
 
 #Install IIQ
 COPY    identityiq.war /opt/tomcat/webapps/identityiq
